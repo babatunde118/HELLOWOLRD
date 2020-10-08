@@ -1,1 +1,3 @@
-# HELLOWOLRD
+# maven-project
+
+Simple Maven Project
